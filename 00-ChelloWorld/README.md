@@ -7,4 +7,3 @@ Target: x86_64-apple-darwin21.6.0
 Thread model: posix
 InstalledDir: /Library/Developer/CommandLineTools/usr/bin
 
-No estoy segura si es la correcta, para ser honesta toda la documentación de mac sobre compiladores es bastante complicada de entender. 
